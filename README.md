@@ -38,9 +38,11 @@ Javascript  17 mins         █████████████████�
   <a href="https://github.com/vineethvictor17/agrogenie.github.io" target="_blank">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineethvictor17&repo=agrogenie.github.io&theme=algolia" />
   </a>
-  <a href="https://github.com/vineethvictor17/https://github.com/vineethvictor17/Employee-Research-Management-System" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineethvictor17&repo=Employee-Research-Management-System https://github.com/vineethvictor17/Employee-Research-Management-System&theme=algolia" />
-  </a>    
+    
+  <a href="https://github.com/vineethvictor17/Employee-Research-Management-System" target="_blank">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineethvictor17&repo=Employee-Research-Management-System&theme=algolia" />
+  </a>
+    
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineethvictor17&theme=algolia" alt="vineethvictor17" /></p>
 
