@@ -28,7 +28,7 @@ TypeScript   17 mins         █████████████████
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg  width="40" height="40" /> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg "  alt="vineethvictor`7" height="30" width="40" /> </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=vineethvictor17&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
