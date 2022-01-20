@@ -27,26 +27,19 @@ Javascript  17 mins         █████████████████�
 ```
 <!--END_SECTION:waka-->
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=vineethvictor17&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethvictor17&theme=radical&layout=compact&hide=Jupyter%20Notebook&langs_count=8"  display=block height=190 align="center" alt="2"></td>
-   </tr>
- </tr>
-  <tr>
- <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vineethvictor17&theme=merko"></td>
- <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=vineethvictor17&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="center"></td>
- </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=vineethvictor17&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethvictor17&theme=algolia&layout=compact" />
+</p>
 
 <h3 align="left">💡 Some of my Projects</h3>
 
 <p align="center">
-  <a href=https://github.com/vineethvictor17/agrogenie.github.io" target="_blank">
+  <a href="https://github.com/vineethvictor17/agrogenie.github.io" target="_blank">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineethvictor17&repo=agrogenie.github.io&theme=algolia" />
   </a>
   <a href="https://github.com/vineethvictor17/https://github.com/vineethvictor17/Employee-Research-Management-System" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineethvictor17&repo=https://github.com/vineethvictor17/Employee-Research-Management-System&theme=algolia" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=vineethvictor17&repo=Employee-Research-Management-System https://github.com/vineethvictor17/Employee-Research-Management-System&theme=algolia" />
   </a>    
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineethvictor17&theme=algolia" alt="vineethvictor17" /></p>
