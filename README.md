@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Vineeth Victor</h1>
+<h1 align="center">Hi 👋,  I'm Vineeth Victor</h1>
 <h3 align="center">A  Full Stack Developer from India. CSE Undergrad at VIT, Chennai</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vineethvictor17&label=Profile%20views&color=0e75b6&style=flat" alt="vineethvictor17" /> </p>
